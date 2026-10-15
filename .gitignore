@@ -13,6 +13,7 @@ target/
 .springBeans
 .sts4-cache
 
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -39,3 +40,5 @@ target/
 .DS_Store
 target/
 .DS_Store
+
+

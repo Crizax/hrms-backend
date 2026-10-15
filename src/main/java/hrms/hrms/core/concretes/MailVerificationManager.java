@@ -7,7 +7,7 @@ import hrms.hrms.core.utilities.Result;
 import hrms.hrms.core.utilities.SuccessResult;
 
 @Service
-public class MailVerificatiınManager implements MailVerificationService{
+public class MailVerificationManager implements MailVerificationService{
 
 	@Override
 	public Result mailVerication(String email) {
